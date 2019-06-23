@@ -4,6 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.tsx",
+  "homepage":"https://mahmad9.github.io/henri"
   "dependencies": {
     "radium": "0.25.2",
     "react": "16.8.4",
