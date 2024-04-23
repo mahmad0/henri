@@ -8,7 +8,7 @@
   "dependencies": {
     "@types/radium": "^0.24.2",
     "@types/react-sound": "^1.2.1",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^5.0.0",
     "radium": "0.25.2",
     "react": "16.8.4",
     "react-animations": "^1.0.0",
